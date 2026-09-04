@@ -1,16 +1,25 @@
-## Hi there 👋
+### Olá, eu sou o Diogo 👋
 
-<!--
-**Diogo-Rodrigues00/Diogo-Rodrigues00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Análise e Desenvolvimento de Sistemas (5° período, Uniube), em busca de uma oportunidade de **estágio em desenvolvimento de software**. Gosto de resolver problemas e estou sempre aprendendo tecnologias novas na prática, através de projetos reais.
 
-Here are some ideas to get you started:
+- 🎓 Cursando ADS na Uniube (Uberlândia, MG)
+- 💻 Estudando: Python, Java, C, SQL e lógica de programação
+- 🌱 Aprendendo agora: Git, GitHub, Docker e trabalho colaborativo em equipe
+- 🚀 Projeto atual: Sistema de Achados e Perdidos (app mobile + backend), desenvolvido em grupo
+- 📫 Contato: diogosilvarodrigues0@icloud.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=openjdk)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
+### 📌 Projetos em destaque
+
+- **Sistema de Achados e Perdidos** — app mobile + backend, desenvolvido em equipe
+- **Sistema de Loja** — sistema de vendas com lógica de estoque e pedidos
+- **Sistema de Reserva de Hotel** — gerenciamento de reservas
